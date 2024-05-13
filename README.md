@@ -4,6 +4,7 @@ Dieses Magic Mirror Module ist dafür da einen ScreenSaver zu erstellen, wo sie 
 
 
 Config: 
+```
 modules: [
   {
     module: "MMM-ScreenSaver",
@@ -16,3 +17,4 @@ modules: [
     }
   }
 ]
+```
