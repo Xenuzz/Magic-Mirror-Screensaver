@@ -3,9 +3,11 @@
 Dieses Magic Mirror Module ist dafür da einen ScreenSaver zu erstellen, wo sie ihre eigenen Bilder auswählen können. 
 
 Du musst in das verzeichnis Magic Mirror und dann in die Module und dann gibst du diesen Befehl ein.
-´´´
+```
 git clone https://github.com/Xenuzz/Magic-Mirror-Screensaver
-´´´
+```
+
+
 Wenn das Module heruntergeladen ist gehst du in deine config.js im config Ordner
 und fügst diesen Code ein
 Config: 
